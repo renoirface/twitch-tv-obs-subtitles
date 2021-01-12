@@ -38,10 +38,10 @@ div#subtitle {
 
 div#hero {
     width: 100vw;
-    height: 200vh;
+    height: 100vh;
     font-size: 80;
     color: red;
-    padding-top: 0px;
+    padding-top: 200px;
 }
 
 div#hero video {
