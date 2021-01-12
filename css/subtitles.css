@@ -21,7 +21,7 @@ div#subtitle {
         "Helvetica Neue", "Helvetica",
         Arial, Sans-Serif;
     font-size: calc( 3vh + 3vw );
-    font-weight: 200;
+    font-weight: 100;
     line-height: calc( 6vh + 3vw );
     color: #c8b7b0;
     text-shadow: 3px 1px 4px #222;
