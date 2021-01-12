@@ -14,7 +14,7 @@ div::-webkit-scrollbar {
 
 div#subtitle {
     position: absolute;
-    bottom: 72vh;
+    bottom:calc(100vh%20+%201.3em)
     left: 0px;
     background-color: #2a0001;
     font-family: "Playfair Display",
